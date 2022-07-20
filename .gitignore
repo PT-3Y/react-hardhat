@@ -1,0 +1,8 @@
+node_modules/
+.idea
+/hardhat.config.js
+/frontend/contracts/*.json
+#/.gitignore
+#Hardhat files
+cache/
+artifacts/
